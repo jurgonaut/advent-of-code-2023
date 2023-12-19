@@ -1,0 +1,1 @@
+My entries for advent of code 2023, run days with: `python3 main.py --input input.txt --first --second`
